@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ATMmachine</label>
+		<id>129</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>ATMmachine.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ATMmachine.jcp</path>
+		</project>
+	</projects>
+</workspace>
